@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NoKps
+- 👋 Hi, I’m @Snoops
 - 👀 I’m interested in programming in python and C++
 - 🌱 I’m currently learning python and C++
 - 💞️ I’m looking to collaborate on with many people
